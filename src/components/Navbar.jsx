@@ -13,7 +13,7 @@ function Navbar() {
           alt="Logo"
           className="h-8 w-8 mr-2"
         />
-        <h1 className="text-xl font-bold">MRKT.AI</h1>
+        <h1 className="text-xl font-bold">MRKT.AI Amine</h1>
       </div>
 
       {/* Navigation Links */}
